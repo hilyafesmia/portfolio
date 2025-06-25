@@ -49,9 +49,11 @@ The Driver App system will automatically reallocate items to prioritize certain 
 
 ###### <a id="objective" style="position:relative;top:-120px"></a> Project Objective
 
-## Eliminate discrepancies between the recorded and actual number of items returned.
+## Increase revenue by improving delivery accuracy during partial pickup
 
-We noticed over 20 disputes monthly due to discrepancies between recorded and actual return quantities, requiring intensive time and human resources to resolve. We hypothesized that there could be a miss-input by the Driver when transferring information from the document to our app.
+We noticed over 20 disputes monthly due to discrepancies between recorded and actual return quantities. These data discrepancies reduced revenue, because it affects order fee calculation. Additionally, order cancellations by high-GMV buyers due to incomplete deliveries significantly reduce our potential revenue.
+
+We hypothesized that there could be a miss-input by the Driver when transferring information from the document to our app.
 :::
 
 ###### User Research
